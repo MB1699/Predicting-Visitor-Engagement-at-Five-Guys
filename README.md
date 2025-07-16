@@ -34,17 +34,17 @@ Modeling – Built Linear Regression and Random Forest models
 Random Forest performed better with non-linear patterns
 Evaluation – Compared actual vs predicted engagement using visual plots
 
-*Key Takeaways
+* Key Takeaways
 Distance doesn’t always reduce engagement—loyal customers travel farther!
 Engagement can be reasonably predicted using just visit counts and distance
 Random Forest worked best due to its flexibility with non-linear data
 
-*What’s Next?
+* What’s Next?
 Add time-series trends like day-by-day visit patterns
 Bring in external data like weather or local events
 Turn this into a dashboard with Streamlit or Tableau
 
-*Created by: Muskan Bhatt
+* Created by: Muskan Bhatt
 Data Analytics Graduate Student
 Developed as part of the XN Capstone initiative
 
